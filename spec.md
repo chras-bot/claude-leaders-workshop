@@ -9,7 +9,7 @@
 3. Recalculate each KPI with the same formula used last cycle.
 4. Update the dashboard values and dates. Do not change layout, formulas, or targets.
 5. Compare each KPI to its target and mark it on track, at risk, or missed.
-6. Compare each KPI to last cycle and flag any change larger than the agreed tolerance.
+6. Compare each KPI to last cycle and flag any change of more than 10%.
 7. Spot-check three KPIs back to the source export and note the result.
 8. List anything you could not calculate and why. Never fill a gap with an estimate.
 
