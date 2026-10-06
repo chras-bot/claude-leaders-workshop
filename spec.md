@@ -12,6 +12,7 @@
 6. Compare each KPI to last cycle and flag any change of more than 10%.
 7. Spot-check three KPIs back to the source export and note the result.
 8. List anything you could not calculate and why. Never fill a gap with an estimate.
+9. Give every flag a one-line reason so the reviewer can accept or reject it quickly.
 
 **Output format:** The updated Excel dashboard plus a short sheet listing flags, gaps, and the spot-check results.
 
